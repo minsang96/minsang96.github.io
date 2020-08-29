@@ -16,7 +16,6 @@ int main() {
 }
 
 ```
-{% if page.comments %} <div id="post-disqus" class="container"> {% include disqus.html %} </div> {% endif %}
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
